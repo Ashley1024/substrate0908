@@ -1,16 +1,3 @@
-# Substrate Node Template
-
-## Q1 列出3个常用的宏、3个常用的存储数据结构
-
-1. pallet::event, pallet::config, pallet::storage
-
-2. StorageValue, StorageMap, StorageDoubleMap
-
-
-## Q2 实现存证模块的功能，包括：创建存证；撤销存证。
-## Q3 为存证模块添加新的功能，转移存证，接收两个参数，一个是包含的哈希值，另一个是存证的接收账户地址。
-
-```
 #![cfg_attr(not(feature = "std"), no_std)]
 
 pub use pallet::*;
@@ -110,4 +97,3 @@ pub mod pallet {
 	}
 
 }
-```

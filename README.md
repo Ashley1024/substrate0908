@@ -6,9 +6,11 @@
 
 2. StorageValue, StorageMap, StorageDoubleMap
 
-
 ## Q2 实现存证模块的功能，包括：创建存证；撤销存证。
 ## Q3 为存证模块添加新的功能，转移存证，接收两个参数，一个是包含的哈希值，另一个是存证的接收账户地址。
+
+![deploy](deploy.png)
+
 
 ```
 #![cfg_attr(not(feature = "std"), no_std)]

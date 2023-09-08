@@ -15,7 +15,7 @@
 
 ![recall](revoke.png)
 
-![transefer](transefer.png)
+![transefer](transfer.png)
 
 
 

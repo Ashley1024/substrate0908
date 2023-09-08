@@ -11,6 +11,13 @@
 
 ![deploy](deploy.png)
 
+![create](create.png)
+
+![recall](revoke.png)
+
+![transefer](transefer.png)
+
+
 
 ```
 #![cfg_attr(not(feature = "std"), no_std)]

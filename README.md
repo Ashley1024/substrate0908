@@ -9,12 +9,16 @@
 ## Q2 实现存证模块的功能，包括：创建存证；撤销存证。
 ## Q3 为存证模块添加新的功能，转移存证，接收两个参数，一个是包含的哈希值，另一个是存证的接收账户地址。
 
+### 编译成功
 ![deploy](deploy.png)
 
+### 创建存证
 ![create](create.png)
 
+### 撤销存证
 ![recall](revoke.png)
 
+### 转移存证
 ![transefer](transfer.png)
 
 
